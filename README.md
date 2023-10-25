@@ -26,11 +26,11 @@ I'm a Data Scientist with Software Engineer skills from Russia
 #### Top Repositories
 
 <div align="center">
-  <a href="https://github.com/Omegon226/Crypto_Analyzatron">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Crypto_Analyzatron&theme=radical&hide_border=true" />
-  </a>
   <a href="https://github.com/Omegon226/service_time_series_model_creator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=service_time_series_model_creator&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Omegon226/Crypto_Analyzatron">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Crypto_Analyzatron&theme=radical&hide_border=true" />
   </a>
 </div>
 
