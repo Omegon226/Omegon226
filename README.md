@@ -2,6 +2,12 @@
 
 I'm a Data Scientist with Software Engineer skills from RF
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,cs,js,html,css,git,gitlab,figma,tensorflow,pytorch,fastapi,visualstudio,vscode,idea&theme=dark" />
+  </a>
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegon226&layout=compact&theme=buefy&hide_border=true" /></a>
 
 #### Top Repositories
