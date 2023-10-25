@@ -1,18 +1,15 @@
 ### Hi there 👋
 
+I'm a Data Scientist with Software Engineer skills from RF
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegon226&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<!--
-**Omegon226/Omegon226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Top Repositories
 
-Here are some ideas to get you started:
+<a href="https://github.com/Omegon226/Crypto_Analyzatron">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Crypto_Analyzatron&theme=buefy" />
+</a>
+<a href="https://github.com/Omegon226/service_time_series_model_creator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=service_time_series_model_creator&theme=buefy" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
