@@ -13,7 +13,7 @@ I'm a Data Scientist with Software Engineer skills from Russia
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cs,cpp,js,html,css,git,gitlab,figma,tensorflow,pytorch,fastapi,visualstudio,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,r,cs,gitlab,figma,tensorflow,pytorch,fastapi,visualstudio,idea&theme=dark" />
   </a>
 </p>
 
