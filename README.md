@@ -8,9 +8,9 @@
 
 <br />
 <br />
-<p align="center">
+<div align="center" height="10em">
   
-</p>
+</div>
 <p align="center">
   I'm a Data Scientist with Software Engineer skills from Russia
 </p>
