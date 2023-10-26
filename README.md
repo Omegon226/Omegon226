@@ -4,7 +4,7 @@
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/Omegon226?style=flat&color=blueviolet&logo=github" />
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/Omegon226?style=flat&color=blueviolet" />
 <img title="Gihub Member" alt="Gihub Member" align="left" src="https://badges.strrl.dev/contributions/all/Omegon226?color=blueviolet" />
-<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/Omegon226?style=flat&color=blueviolet" />
+<img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/Omegon226?style=flat&color=blueviolet" /> 
 
 </br>
 </br>
