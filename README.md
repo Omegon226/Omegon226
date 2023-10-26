@@ -6,8 +6,8 @@
 <img title="Gihub Member" alt="Gihub Member" align="left" src="https://badges.strrl.dev/contributions/all/Omegon226?color=blueviolet" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/Omegon226?style=flat&color=blueviolet" /> 
 
-</br>
-</br>
+<br />
+<br />
 <p align="center">
   I'm a Data Scientist with Software Engineer skills from Russia
 </p>
