@@ -8,8 +8,9 @@
 
 </br>
 </br>
-
-I'm a Data Scientist with Software Engineer skills from Russia
+<p align="center">
+  I'm a Data Scientist with Software Engineer skills from Russia
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
