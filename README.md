@@ -41,6 +41,12 @@
   <a href="https://github.com/Omegon226/Hyperparameters_Optimization_With_Gradient_Descending">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Hyperparameters_Optimization_With_Gradient_Descending&theme=radical&hide_border=true" />
   </a>
+  <a href="https://github.com/Omegon226/Continual_Learning_With_EWC-F">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Continual_Learning_With_EWC-F&theme=radical&hide_border=true" />
+  </a>
 </div>
+
+
+
 
 
