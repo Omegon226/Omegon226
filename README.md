@@ -9,6 +9,9 @@
 <br />
 <br />
 <p align="center">
+  
+</p>
+<p align="center">
   I'm a Data Scientist with Software Engineer skills from Russia
 </p>
 
