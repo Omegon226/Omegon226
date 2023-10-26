@@ -30,7 +30,7 @@
 #### Top Repositories
 
 <div align="center">
-  <a href="https://github.com/Omegon226/service_time_series_model_creator">
+  <a href="https://github.com/Omegon226/Service_Time_Series_Model_Creator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Service_Time_Series_Model_Creator&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Omegon226/Crypto_Analyzatron">
@@ -38,7 +38,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Omegon226/service_time_series_model_creator">
+  <a href="https://github.com/Omegon226/Hyperparameters_Optimization_With_Gradient_Descending">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Hyperparameters_Optimization_With_Gradient_Descending&theme=radical&hide_border=true" />
   </a>
 </div>
