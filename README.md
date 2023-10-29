@@ -1,5 +1,4 @@
-#
-![Без названия (60) (1)](https://github.com/Omegon226/Omegon226/assets/69383841/7c111e3b-5aea-47f3-bffa-0b5de06f26c2)
+![Без названия (61) (1)](https://github.com/Omegon226/Omegon226/assets/69383841/1c1c75a6-8204-4abf-b844-1f1d2626be70)
 
 <div align="center">
   <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/Omegon226?style=flat&color=blueviolet&logo=github" />
