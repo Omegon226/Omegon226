@@ -48,8 +48,8 @@
   <a href="https://github.com/Omegon226/Cryptocurrency_Rate_Forecasting">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Cryptocurrency_Rate_Forecasting&theme=radical&hide_border=true" />
   </a>
-    <a href="https://github.com/Omegon226/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=&theme=radical&hide_border=true" />
+    <a href="https://github.com/Omegon226/OddEven">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=OddEven&theme=radical&hide_border=true" />
   </a>
 </div>
 
