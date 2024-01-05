@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  I'm a Data Scientist / ML Engineer from Russia
+  I'm a Middle+ Data Scientist / ML Engineer from Russia
 </p>
 
 <p align="center">
