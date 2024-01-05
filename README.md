@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  I'm a Data Scientist with Software Engineer skills from Russia
+  I'm a Data Scientist / ML Engineer from Russia
 </p>
 
 <p align="center">
