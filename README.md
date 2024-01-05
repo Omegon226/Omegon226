@@ -44,6 +44,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=Continual_Learning_With_EWC-F&theme=radical&hide_border=true" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/Omegon226/OddEven">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Omegon226&repo=OddEven&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 
 
