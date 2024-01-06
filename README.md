@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  I'm a Middle+ R&D Data Scientist / ML Engineer (classic ML, Time Series, NLP) from Russia
+  I'm a Middle+ R&D Data Scientist (classic ML, Time Series, NLP) / ML Engineer (backend, ML models deploying) from Russia
 </p>
 
 <p align="center">
